@@ -1,0 +1,18 @@
+// Delete two of the following three lines, leaving only the true statement and fill in the blanks.
+
+
+1) I've completed this statement by myself entirely.
+
+
+
+
+
+//	Place your attributions below:
+//
+//	
+https://freestocktextures.com/texture/building-facade-tung-chung-hong-kong,1010.html - never ended up using this 
+https://torange.biz/texture-wall-building-illumination-49358 - never ended up using this
+https://www.raywenderlich.com/792-htc-vive-tutorial-for-unity - follow this script, but made changes for oculus as well as a couple things I THINK 
+made it run a bit smoother
+https://assetstore.unity.com/packages/3d/environments/free-medieval-room-131004 - for the entire scene
+
